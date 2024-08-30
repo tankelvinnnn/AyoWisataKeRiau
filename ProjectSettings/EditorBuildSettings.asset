@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 19625f37508f63f4fa42d04bf358be7f
+  - enabled: 1
+    path: Assets/Scenes/Pertanyaan/Pekanbaru.unity
+    guid: 396738830bc740c4a9f883c11ca8012e
+  - enabled: 1
+    path: Assets/Scenes/Pertanyaan/Dumai.unity
+    guid: 0a3cd48ac32b61743a1133c02e0c233b
+  - enabled: 1
+    path: Assets/Scenes/Pertanyaan/Kampar.unity
+    guid: 8bfd00834a194ae49a76b5af789c1e46
+  - enabled: 1
+    path: Assets/Scenes/Pertanyaan/Pelalawan.unity
+    guid: 161ce875e4a716240b97b74852df2baf
+  - enabled: 1
+    path: Assets/Scenes/TebakGambar/Siak.unity
+    guid: 74a5b2604f6974d41bd2a31baaebbf75
+  - enabled: 1
+    path: Assets/Scenes/TebakGambar/Rohul.unity
+    guid: f45103b41603f1e48be5ba4fadddfb84
+  - enabled: 1
+    path: Assets/Scenes/TebakGambar/Rohil.unity
+    guid: f2ab8216ed688af42aea2aed4bbed276
+  - enabled: 1
+    path: Assets/Scenes/TebakGambar/Kuansing.unity
+    guid: dcb52dc45df72e94da8433b583437177
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Bengkalis.unity
+    guid: 1eae0c761334994408a103760f432b93
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Inhil.unity
+    guid: 2f110c31d0bcf944cb92e12dff4bf76a
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Inhu.unity
+    guid: fb6f6b79b9e3e414cbbf97230968109d
+  - enabled: 1
+    path: Assets/Scenes/Puzzle/Meranti.unity
+    guid: 4d885f4e550d4fa469ec9487eeff1aa9
+  - enabled: 1
+    path: Assets/Scenes/ScoreBoard.unity
+    guid: cab845f2351484d4797dc8958ac9efd1
+  m_configObjects: {}
